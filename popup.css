@@ -1,0 +1,9 @@
+button {
+  height: 50px;
+  width: 50px;
+  outline: none;
+}
+
+#cat {
+  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fcoleandmarmalade.com%2Fwp-content%2Fuploads%2F2019%2F06%2Fcat-4262034_1280-e1561555501321.jpg&imgrefurl=https%3A%2F%2Fcoleandmarmalade.com%2F2019%2F06%2F26%2Fcpr-for-cats-what-every-cat-owner-should-know%2F&docid=W135jTFQEbKDMM&tbnid=wprh-MfVo1hG7M%3A&vet=10ahUKEwifrpqwp6fkAhUSNn0KHREuAAoQMwhyKAQwBA..i&w=1200&h=800&bih=489&biw=1242&q=cat&ved=0ahUKEwifrpqwp6fkAhUSNn0KHREuAAoQMwhyKAQwBA&iact=mrc&uact=8");
+}
