@@ -2,5 +2,5 @@
     "name": "Pet Pomodoro",
     "version": "1.0",
     "description": "Pet reminds you to take a break!",
-    "manifest_version": 1
+    "manifest_version": 2
 }
